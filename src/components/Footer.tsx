@@ -1,4 +1,3 @@
-import { Anchor } from 'lucide-react';
 
 const Footer = () => {
   return (
